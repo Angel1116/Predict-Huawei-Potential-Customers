@@ -9,8 +9,9 @@ In fact, some data analysts have also attempted to make predictions with this da
 
 With these methods, I successfully increased the accuracy from 0.883 to 0.956, as shown in the figure below.  
 
-<img src="https://github.com/user-attachments/assets/390bfb6e-b39e-4c3e-9b77-deec8b9c90e3" width="550"/>
+<img src="https://github.com/user-attachments/assets/7089c842-c1c6-46fc-b1e9-c94ea00e722b" width="550"/>
 
 ▲Comparison between use and non-use of the bag-of-values encoding
+
 
 
